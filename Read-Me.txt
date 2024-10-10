@@ -1,0 +1,11 @@
+Treatment procedure:
+
+ 1. Completely close the program after installation.
+
+ 2. (Optional) Go to MacOS settings, Privacy and security, allow the terminal full access to the file system and apps management.
+
+ 3. Open the Crack folder in the terminal.
+
+ 4. Enter the following command: chmod +x ./install.sh && sudo ./install.sh
+
+ 5. Profit!
